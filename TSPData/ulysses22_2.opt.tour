@@ -1,0 +1,28 @@
+NAME : ulysses22.opt.tour
+TYPE : TOUR
+COMMENT : Optimal solution of ulysses22 (7013)
+DIMENSION : 22
+TOUR_SECTION
+1
+2
+3
+6
+7
+9
+10
+12
+13
+16
+19
+20
+21
+22
+18
+17
+15
+14
+11
+8
+5
+4
+-1
