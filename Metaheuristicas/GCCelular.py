@@ -456,6 +456,3 @@ class GCCelular(GC):
                 graficaConvergenciaPromedio(solucionGeneral(historial,len(historial[0].aptitudes),confproblema.criterio))
 
         return mejorIndividuo
-
-
-
